@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".BiFinderMainActivity" >
+    
+    <Button
+        android:id="@+id/button2"
+        style="@style/TextoAsteroides.Botones"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/PuntosVenta" />
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/TextoAsteroides.Botones"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Favoritos" />
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/TextoAsteroides.Botones"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Productos" />
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/TextoAsteroides.Botones"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Operadores" />
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sectores">
+        <item>Sectores</item>
+        <item>Aceite de oliva</item>
+        <item>Forraje</item>
+        <item>Frutas</item>
+        <item>Harina</item>
+        <item>Hortalizas</item>
+        <item>Olivar</item>
+        <item>Pasta</item>
+        <item>Viña</item>
+    </string-array>
+</resources>

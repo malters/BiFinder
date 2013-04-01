@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BiFinder</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Operadores">Operadores</string>
+	<string name="Productos">Productos</string>
+	<string name="PuntosVenta">Puntos de venta</string>
+	<string name="Favoritos">Favoritos</string>
+	<string name="Buscador">Buscador</string>
+	<string name="Provincia">Provincia</string>
+	<string name="Sector">Sector</string>
+	<string name="Certificacion">Certificación</string>
+	<string name="Nombre">Nombres empresa/contacto</string>
+</resources>
